@@ -45,3 +45,10 @@ This work reflects my broader objective of integrating artificial intelligence i
 ## Author
 
 Serge Alain Koumba Maganga
+
+## Practical Implementation
+
+This repository includes a simple machine learning model that predicts sales based on marketing spend.
+
+This project demonstrates how AI can support business decision-making by transforming data into actionable insights.
+
