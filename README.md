@@ -42,13 +42,13 @@ Through these projects, I developed:
 
 This work reflects my broader objective of integrating artificial intelligence into business environments to enhance decision quality, operational efficiency, and organizational performance.
 
-## Author
-
-Serge Alain Koumba Maganga
-
 ## Practical Implementation
 
 This repository includes a simple machine learning model that predicts sales based on marketing spend.
 
 This project demonstrates how AI can support business decision-making by transforming data into actionable insights.
 
+
+## Author
+
+Serge Alain Koumba Maganga
